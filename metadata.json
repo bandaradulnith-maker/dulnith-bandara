@@ -1,0 +1,9 @@
+{
+  "name": "BIOQUEST - Explore the Living World",
+  "description": "AI-powered wildlife and biodiversity discovery platform for nature enthusiasts, citizen scientists, and field researchers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
